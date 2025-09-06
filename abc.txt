@@ -1,2 +1,5 @@
+<<<<<<< HEAD
 hello
 this is shruthi
+=======
+>>>>>>> parent of 044baa2 (second saved)
