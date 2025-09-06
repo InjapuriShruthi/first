@@ -1,5 +1,6 @@
 <<<<<<< HEAD
 hello
 this is shruthi
+am from cse
 =======
 >>>>>>> parent of 044baa2 (second saved)
